@@ -118,7 +118,7 @@
 O Projeto Parcial teve como objetivo implementar um Sistema de Estoque de Mangás para um sebo. Por se tratar de um projeto parcial, foram desenvolvidas as operações de cadastro, consulta e exclusão.
 
 Os requisitos a serem atendidos incluíam:
-aplicação dos conceitos de diagrama de classes, reflexividade, encapsulamento (public e private), herança, polimorfismo (sobrecarga e sobrescrita), interface e dois tratamentos de exceção (sem multicatching)
+aplicação dos conceitos de diagrama de classes, reflexividade, encapsulamento (public e private), herança, polimorfismo (sobrecarga e sobrescrita), interface e dois tratamentos de exceção (sem multicatching). Não era permitido fazer uso de packages, interface gráfica (nessa etapa) e entre outros requisitos.
 
 ---
 
