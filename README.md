@@ -16,11 +16,102 @@
 
 ---
 
-## 📂 Estrutura do Repositório (Repository Structure)
-
-```text
-.
-```
+<details>
+  <summary><strong>📂 Estrutura do Repositório (Repository Structure)</strong></summary>
+<pre>
+├── OthersExercises
+│   ├── Exerc_FerramCarlosGabrielBaratieri
+│   │   ├── A3CarlosGabrielBaratieri.java
+│   │   ├── ContLetCarlosGabrielBaratieri.java
+│   │   ├── G1CarlosGabrielBaratieri.java
+│   │   ├── MatrizInversaCarlosGabrielBaratieri.java
+│   │   └── VetorInversoCarlosGabrielBaratieri.java
+│   ├── POO_2025-2_CarlosGabrielBaratieri
+│   │   ├── Calc.java
+│   │   ├── Carga.java
+│   │   ├── Leitura.java
+│   │   ├── Motor.java
+│   │   ├── Passeio.java
+│   │   ├── TstVeic.java
+│   │   └── Veiculo.java
+│   └── TrabalhoWrappersCarlosGabrielBaratieri
+│       ├── TstBool.java
+│       ├── TstByte.java
+│       ├── TstChar.java
+│       ├── TstDoub.java
+│       ├── TstFloat.java
+│       ├── TstInt.java
+│       ├── TstLong.java
+│       ├── TstShort.java
+│       └── TstWrap.java
+├── ProjetoParcial
+│   ├── Animacao.java
+│   ├── AspectosFisicos.java
+│   ├── CadastrarJosei.java
+│   ├── CadastrarKodomo.java
+│   ├── CadastrarMangaBase.java
+│   ├── CadastrarSeinen.java
+│   ├── CadastrarShoujo.java
+│   ├── CadastrarShounen.java
+│   ├── CodigoInvalidoException.java
+│   ├── ConsultarCodigoInterno.java
+│   ├── ConsultarManga.java
+│   ├── ControleEstoque.java
+│   ├── DiagramaUML.png
+│   ├── EditorialBrasileira.java
+│   ├── EditorialJaponesa.java
+│   ├── EstadoConservacao.java
+│   ├── Estoque.java
+│   ├── EstoqueVazioException.java
+│   ├── ExcluirManga.java
+│   ├── Generos.java
+│   ├── GeradorCIE.java
+│   ├── InformacoesEditoriais.java
+│   ├── InformacoesEstoque.java
+│   ├── InterfaceEstoque.java
+│   ├── Josei.java
+│   ├── Kodomo.java
+│   ├── Leitura.java
+│   ├── Manga.java
+│   ├── Principal.java
+│   ├── Seinen.java
+│   ├── Shoujo.java
+│   ├── Shounen.java
+│   └── Volume.java
+├── ProjetoParcial-Ajustado
+│   ├── Animacao.java
+│   ├── AspectosFisicos.java
+│   ├── AtualizarManga.java
+│   ├── CadastrarMangaBase.java
+│   ├── CadastroUnificadoManga.java
+│   ├── CodigoInvalidoException.java
+│   ├── ConsultarCodigoInterno.java
+│   ├── ConsultarManga.java
+│   ├── ControleEstoque.java
+│   ├── EditorialBrasileira.java
+│   ├── EditorialJaponesa.java
+│   ├── EstadoConservacao.java
+│   ├── Estoque.java
+│   ├── EstoqueVazioException.java
+│   ├── ExcluirManga.java
+│   ├── FormatadorManga.java
+│   ├── Generos.java
+│   ├── GeradorCIE.java
+│   ├── InformacoesEditoriais.java
+│   ├── InformacoesEstoque.java
+│   ├── InterfaceEstoque.java
+│   ├── Josei.java
+│   ├── Kodomo.java
+│   ├── Leitura.java
+│   ├── Manga.java
+│   ├── Principal.java
+│   ├── Seinen.java
+│   ├── Shoujo.java
+│   ├── Shounen.java
+│   └── Volume.java
+└── README.md
+</pre>
+</details>
 
 ---
 
