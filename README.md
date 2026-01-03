@@ -5,6 +5,8 @@
   />
 </p>
 
+---
+
 # **`Programação Orientada a Objetos 1 (Object-Oriented Programming 1)`**
 
 >[!IMPORTANT]
