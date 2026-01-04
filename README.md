@@ -129,6 +129,15 @@ aplicação dos conceitos de diagrama de classes, reflexividade, encapsulamento 
 >The requirements to be met included:  
 >application of class diagram concepts, reflexivity, encapsulation (public and private), inheritance, polymorphism (overloading and overriding), interface, and two exception handlings (without multicatching). The use of packages, graphical interface (at this stage), and other features were not allowed.
 
+---
+
+## Repositório Recomendado (Recommended Repository)
+
+<p align="center">
+  <a href="https://github.com/fuyuakii/StudyTopics">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/fuyuakii/StudyTopics&mode=dark&style=horizontal" alt="StudyTopics"/>
+  </a>
+</p>
 
 ---
 
