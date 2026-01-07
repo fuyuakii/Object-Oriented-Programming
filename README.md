@@ -131,6 +131,8 @@ aplicação dos conceitos de diagrama de classes, reflexividade, encapsulamento 
 >The requirements to be met included:  
 >application of class diagram concepts, reflexivity, encapsulation (public and private), inheritance, polymorphism (overloading and overriding), interface, and two exception handlings (without multicatching). The use of packages, graphical interface (at this stage), and other features were not allowed.
 
+![Graph Project](OthersExercises/project.svg)
+
 ---
 
 ## Repositório Recomendado (Recommended Repository)
